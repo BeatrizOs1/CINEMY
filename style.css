@@ -1,0 +1,717 @@
+
+ /* Menu Mobile */
+ .header {
+    background: #727272;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .header_area {
+      padding: 20px;
+  }
+ 
+  .memu_area{
+    margin-top: 30px;
+    padding-left: 100px;
+}
+
+  .memu_area nav a{
+      background-color: #8f8c8c;
+      color: white;
+      margin-bottom: 5px;
+  }
+
+  .memu_area nav a:hover{
+      background-color: #8d8787;
+  }
+
+  .active {
+      background-color: #615e5e !important;
+  }
+
+.filmes iframe {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+
+.area_destaque select {
+    align-items: right;
+}
+
+.logo {
+    max-width: 120px;
+    align-items: left;
+}
+
+.d-flex {
+    margin-left: 40%;
+    margin-top: 10px;
+    padding-right: 110px;
+}
+
+.filmes {
+    padding: 40px;
+    background-color: rgb(173, 169, 169);
+}
+
+.lancamentos h2 {
+   text-align: center;
+   background-color: rgb(36, 32, 32);
+   color: white;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   padding: 15px;
+}
+
+p {
+    font-weight: normal;
+    text-align: justify;
+    font-size: 12;
+}
+
+
+.banner img { 
+    width: 80%;
+    margin-top: 10px;
+}
+
+.area_destaque {
+    background-color: rgb(36, 32, 32);
+    color: white;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.avaliacao h2 {
+    text-align: center;
+    background-color:teal;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 15px;
+ }
+.banner {
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.images button {
+    margin-left: 95%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.align_button {
+    align-content: flex-end;
+}
+
+.area_destaque h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.area_avaliacao img {
+    width: 100%;
+    margin: 5px;
+}
+
+.butn button{
+    margin-left: 95%;
+    margin-bottom: 10px;
+}
+
+
+.title_entrevistas {
+    text-align: center;
+    background-color: rgb(173, 169, 169);
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 15px;
+}
+
+.area_titulo {
+    text-align: center;
+    background-color: rgb(36, 32, 32);
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 15px;
+}
+
+.entrevistas iframe {
+    padding: 15px;
+    width: 90%;
+    height: 120%;
+    padding-bottom:30px;
+}
+
+.entrevistas {
+    background-color: rgb(173, 169, 169);
+}
+.descricao {
+    padding-top: 10px;
+}
+
+.entrevistas p {
+    padding-left: 15px;
+}
+
+.entrevistas button {
+    margin-left: 93%;
+    margin-bottom: 10px;
+}
+
+.fa-user {
+    size: 9px;
+}
+
+.images {
+    background-color: rgb(173, 169, 169);
+}
+
+.sobre h2 {
+    text-align: center;
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 15px;
+}
+
+.editorial h2 {
+    text-align: center;
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 15px;
+}
+
+.sobre {
+    font-weight: normal;
+}
+
+.novidades img {
+    width: 100%;
+    margin: 5px;
+    padding-left: 50px;
+}
+
+.novidades a:hover {
+    color: rgb(56, 56, 145);
+}
+
+.novidades a {
+    color: black;
+}
+
+.btn {
+    border-radius: 30px;
+    background-color: teal;
+    border-color: teal;
+}
+
+.btn-warning{
+    border-radius: 30px;
+    background-color: rgb(233, 196, 73);
+    border-color: rgb(238, 182, 61);
+}
+
+a .link:link {
+    text-decoration: none;
+    background-color: #8f8c8c;
+}
+
+.dark {
+    border-radius: 30px;
+    background-color: teal;
+    border-color: teal;
+    margin-left: 3px;
+
+}
+.size {
+    size: 5x;
+}
+
+.boot {
+    margin-left: 25%;
+}
+.boot1 {
+    margin-left: 22%;
+}
+.boot2 {
+    margin-left: 21%;
+}
+
+.sobre .mobile{
+    text-align: center;
+}
+
+
+.footer {
+    margin-top: 20px;
+    background-color: rgb(116, 110, 110);
+    padding: 10px;
+}
+
+.footer p {
+    color:black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.data {
+    text-align: start;
+}
+
+h4 {
+    text-align: center;
+}
+
+.box-filme img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+
+.page_filme h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.page_filme  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 60%;
+}
+
+.filmes_page {
+ text-transform: uppercase;
+ font-weight: bold;
+ font-size: medium;
+}
+
+.botão button{
+    display: block;
+    margin-left: -170%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.color {
+    background-color: rgb(163, 165, 194);
+}
+
+#images1 {
+    background-color: rgb(173, 169, 169);
+}
+
+.btn-warning a{
+    color: azure;
+}
+
+.btn-warning{
+    background-color: teal;
+    border-color: teal;
+}
+
+.btn-dark a{
+    color:azure;
+}
+
+@media screen and (max-width: 639px){
+
+    .botão button{
+        display: block;
+        margin-left: -10%;
+        margin-bottom: 10px;
+    }
+
+    .memu_area{
+        padding-left: 15px;
+    }
+
+    .d-flex {
+        padding-right: 0px;
+        margin-left: 5%;
+    }
+
+    .filmes iframe {
+        width:100%;
+        height: 100%;
+    }
+
+    .images img{
+        margin-left: 25px;
+    }
+
+    .images button{
+        margin-left: 90%;
+    }
+
+    .area_avaliacao img{
+        height: 60%;
+        width: 30%;
+        margin-left: 35%;
+    }
+
+    .area_avaliacao p {
+        font-size: 8;
+    }
+    .area_avaliacao h3 {
+        font-size: 8;
+        text-align: center;
+    }
+
+    .butn button{
+        margin-left: 85%;
+    }
+
+    .making iframe {
+        width: 300%;
+        height: 100%;
+    }
+
+    .novidades h2 {
+        text-align: center;
+    }
+
+    .novidades img {
+        width: 90%;
+        height: 80%;
+        padding-left: 25px;
+    }
+
+    .novidades button{
+        font-size: 20px;
+    }
+
+    .sobre p{
+        text-align: justify;
+    }
+
+    .sobre .mobile {
+        text-align: center;
+    }
+    
+    .making iframe {
+        width: 100%;
+        height: 100%;
+    }
+
+    .title_entrevistas h2{
+        font-size: 30px;;
+    }
+
+    .making button{
+        margin-left: 82%;
+    }
+    .boot {
+        margin-left: 20%;
+    }
+    .boot1 {
+        margin-left: 15%;
+    }
+    .boot2 {
+        margin-left: 13%;
+    }
+
+    .footer{
+        text-align: left;
+        font-size: 6;
+    }
+
+    .footer .logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .resultado-filme img {
+        height: 60%;
+        width: 70%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 10px;
+    }
+
+    .resultado-filme h2 {
+        text-align: center;
+    }
+
+    .resultado-filme button {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 5px;
+    }
+
+}
+
+@media screen and (min-width: 640px) and (max-width: 768px){
+
+    .memu_area{
+        padding-left: 70px;
+    }
+
+    .d-flex {
+        padding-right: 30px;
+        margin-left: 0px;
+    }
+
+    .logo {
+        max-width: 150px;
+        align-items: left;
+    }
+    .filmes iframe {
+        width: 100%;
+        height: 100%;
+    }
+
+    .images img{
+        margin-left: 25px;
+    }
+
+    .images button{
+        margin-left: 90%;
+    }
+
+    .area_avaliacao img{
+        height: 60%;
+        width: 40%;
+        margin-left: 35%;
+    }
+
+    .area_avaliacao p {
+        font-size: 8;
+    }
+    .area_avaliacao h3 {
+        text-align: center;
+    }
+
+    .butn button{
+        margin-left: 90%;
+    }
+
+    .making iframe {
+        width: 100%;
+        height: 100%;
+    }
+
+    .novidades h2 {
+        text-align: center;
+    }
+
+    .novidades img {
+        width: 100%;
+        height: 80%;
+        padding-left: 25px;
+    }
+
+    .novidades button{
+        font-size: 20px;
+    }
+
+    .sobre p{
+        text-align: justify;
+    }
+
+    .sobre .mobile {
+        text-align: center;
+    }
+    .pesquisa h2 {
+        text-align: center;
+    }
+    .making iframe {
+        width: 100%;
+        height: 100%;
+    }
+
+    .title_entrevistas h2{
+        font-size: 30px;;
+    }
+
+    .making button{
+        margin-left: 90%;
+    }
+    .boot {
+        margin-left: 36%;
+    }
+    .boot1 {
+        margin-left: 34%;
+    }
+    .boot2 {
+        margin-left: 33%;
+    }
+
+    .footer{
+        text-align: left;
+        font-size: 6;
+    }
+
+    .footer .logo {
+        margin-left: 10%;
+        width: 80%;
+        height: 80%;
+    }
+
+    .resultado-filme img {
+        height: 100%;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 10px;
+    }
+
+    .resultado-filme h2 {
+        text-align: center;
+    }
+
+    .resultado-filme button {
+        display: block;
+        margin-top: 5px;
+    }
+
+    .botão button{
+        display: block;
+        margin-left: -35%;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (min-width: 640px) and (max-width: 668px){
+    .memu_area nav a{
+        width:30%;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    .boot {
+        margin-left: 32%;
+    }
+    .boot1 {
+        margin-left: 28%;
+    }
+    .boot2 {
+        margin-left: 27%;
+    }
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px){
+
+    .memu_area nav a{
+        width:30%;
+        margin-bottom: 5px;
+    }
+
+    .d-flex {
+        width:50%;
+        padding-right: 10px;
+        margin-left: 47%;
+    }
+
+    .boot {
+        margin-left: 19%;
+    }
+    .boot1 {
+        margin-left: 16%;
+    }
+    .boot2 {
+        margin-left: 15%;
+    }
+
+    .botão button{
+        display: block;
+        margin-left: -130%;
+        margin-bottom: 10px;
+    }
+
+    .resultado-filme img {
+        height: 50%;
+        width: 40px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 10px;
+    }
+
+    .resultado-filme h2 {
+        text-align: center;
+    }
+
+    .resultado-filme button {
+        display: block;
+        margin-top: 5px;
+    }
+    
+    .logo {
+       margin-left: 15px;
+       margin-top: 15px;
+    }
+}
+
+@media screen and (min-width: 736px) and (max-width: 740px){
+    .page_filme h4{
+        margin-top: 0px;
+        display: block;
+    }
+
+    .page_filme img {
+        width: 50%;
+        height: 35%;
+    }   
+
+    .filme_avaliacao {
+        margin-bottom: 0px;
+    }
+}
+
+@media screen and (max-width: 735px){
+    .page_filme h4{
+        margin-top: 80px;
+        display: block;
+    }
+
+    .page_filme img {
+        width: 50%;
+        height: 35%;
+    }   
+
+    .filme_avaliacao {
+        margin-bottom: 80px;
+    }
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .page_filme h4{
+        margin-top: 70px;
+        display: block;
+    }
+
+    .page_filme img {
+        width: 30%;
+        height: 45%;
+    }
+}
+
+@media screen and (min-width: 669px) and (max-width: 768px){
+    .memu_area nav a{
+        width:50%;
+        margin-left: 0px;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    .logo {
+        max-width: 180px;
+       margin-left: 40px;
+       margin-top: 25px;
+    }
+
+    .footer .logo {
+        padding-bottom: 90px;
+    }
+}
